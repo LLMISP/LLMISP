@@ -1,0 +1,81 @@
+Start Input Generation
+----------
+int startIndex = -5;
+        int endIndex = 10;
+----------
+import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = -3;
+        int endIndex = 5;
+----------
+import java.lang.String;
+        import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 5;
+        int endIndex = 10;
+----------
+import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 0;
+        int endIndex = 15;
+----------
+import java.lang.String;
+        import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 2;
+        int endIndex = 2;
+----------
+import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 0;
+        int endIndex = 3;
+----------
+import java.lang.String;
+        import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 2;
+        int endIndex = 5;
+----------
+import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 0;
+        int endIndex = 3;
+----------
+import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 0;
+        int endIndex = 5;
+----------
+import org.apache.commons.lang3.text.StrBuilder;
+----------
+int startIndex = 2;
+        int endIndex = 10;
+----------
+import org.apache.commons.lang3.text.StrBuilder;
+Start Class Object Generation
+----------
+int initialCapacity = 20;
+        StrBuilder strBuilder = new StrBuilder(initialCapacity);
+----------
+String str = "Hello";
+        StrBuilder strBuilder = new StrBuilder(str);
+----------
+int initialCapacity = 20;
+        StrBuilder strBuilder = new StrBuilder(initialCapacity);
+----------
+String str = "Hello World";
+        StrBuilder strBuilder = new StrBuilder(str);
+----------
+int initialCapacity = 10;
+        StrBuilder strBuilder = new StrBuilder(initialCapacity);
+----------
+String str = "Hello";
+        StrBuilder strBuilder = new StrBuilder(str);
+----------
+StrBuilder strBuilder = new StrBuilder("Hello World");
+----------
+StrBuilder strBuilder = new StrBuilder("Java");
+----------
+StrBuilder strBuilder = new StrBuilder("Hello World");
+----------
+StrBuilder strBuilder = new StrBuilder();
